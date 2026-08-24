@@ -41,7 +41,6 @@ thanks for reading :>
 
 
 
- [Sign my ata !](https://hamgurncheesy.atabook.org/)
 
 
 
