@@ -3,7 +3,9 @@
 
 <br><br>
 
-<img width="300" height="150" alt="c1a252d305f15cde42fee28a179ea8de" src="https://github.com/user-attachments/assets/954e1d45-2f10-4d97-8665-44ca413be18e" />
+![](https://img.shields.io/badge/orca_orca_orca_orca_orca-7ff24b)
+
+<img width="200" height="100" alt="af5fd8ccd1bada2745b562dafccac44d" src="https://github.com/user-attachments/assets/4e4daad5-df53-43fb-993b-5f20626f7965" />
 
 
 <br><br>
